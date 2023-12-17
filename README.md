@@ -40,7 +40,7 @@ Embark on a parkour adventure, guiding the frog through challenging levels. Mast
 1. Open in Unreal Engine:
   - Launch Unreal Engine.
   - Open the project by selecting the cloned folder.
-2.Build and Play:
+2. Build and Play:
   - Build the project in Unreal Engine.
   - Start the game and enjoy the amphibian parkour adventure!
 
